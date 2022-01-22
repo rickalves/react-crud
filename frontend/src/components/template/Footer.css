@@ -1,0 +1,18 @@
+footer.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--primary-color);
+}
+
+footer span{
+    font-size: 0.8rem;
+}
+
+span strong{
+    color: var(--color)
+}
+
+footer a {
+    text-decoration: none;
+}

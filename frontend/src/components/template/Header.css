@@ -1,0 +1,13 @@
+header.header{
+    padding-top: 10px;
+    overflow: hidden;
+    white-space: nowrap;
+    background: var(--primary-color);
+    box-shadow: var(--shadow);
+}
+
+.text-light{
+    color:var(--color)!important;
+    padding-left: 10px;
+    font-size: 1.2rem;
+}

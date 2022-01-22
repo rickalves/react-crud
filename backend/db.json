@@ -1,14 +1,14 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Rick Alves",
-        "email": "henryworkdev.ti@gmail.com"
-      },
-      {
-        "id": 2,
-        "name": "Mariana Sousa",
-        "email": "maria@mail.com"
-      }
-    ]
-  }
+  "users": [
+    {
+      "id": 1,
+      "name": "Rick_Alves",
+      "email": "henryworkdev.ti@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Mariana Sousa Santos",
+      "email": "maria@mail.com"
+    }
+  ]
+}

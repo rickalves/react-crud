@@ -1,0 +1,11 @@
+main > div{
+    box-shadow: var(--shadow);
+    background: var(--primary-color);
+    border-radius: 10px;
+}
+
+button[name="btnSave"]{
+    background:var(--secondary-color) !important;
+    border: none;
+}
+
