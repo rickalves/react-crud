@@ -1,5 +1,5 @@
 nav a{
-    display: block;
+    display: inline-block;
     border-width: medium !important;
     border-bottom: solid 1px !important;
     color: #fff !important;
@@ -12,4 +12,11 @@ nav a:nth-child(1){
 }
 nav a:hover{
     background: var(--secondary-color)!important;
+}
+
+@media(max-width: 768px){
+    nav a{
+        width: 50%;
+        border: solid 1px !important;
+    }
 }

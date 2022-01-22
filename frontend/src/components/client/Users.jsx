@@ -8,7 +8,7 @@ const headerProps = {
     subtitle: 'Cadastro de Usuários',
 }
 
-const baseUrl ='http://localhost:3001/users'
+const baseUrl ='https://jsonplaceholder.typicode.com/users'
 const initialState = {
     user: { name: '', email: ''},
     list: []
@@ -98,7 +98,7 @@ export default class Users extends Component {
 
     renderTable(){
         return (
-            <table className="table table-dark table-striped my-3">
+            <table className="table table-responsive table-dark table-striped my-3">
                 <thead>
                     <tr>
                         <th>Id</th>

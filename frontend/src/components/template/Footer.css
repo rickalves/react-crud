@@ -3,6 +3,8 @@ footer.footer{
     justify-content: center;
     align-items: center;
     background: var(--primary-color);
+    padding: 5px;
+    text-align: center;
 }
 
 footer span{

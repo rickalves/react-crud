@@ -4,7 +4,7 @@ import React from 'react'
 import Logo from './Logo'
 
 export default props =>
-    <header className="header d-none d-sm-flex">
+    <header className="header d-flex">
         <Logo />
         <div>
             <h1 className="mt-3 h3">

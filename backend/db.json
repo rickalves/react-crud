@@ -2,13 +2,18 @@
   "users": [
     {
       "id": 1,
-      "name": "Rick_Alves",
+      "name": "Rick Alves Raulino",
       "email": "henryworkdev.ti@gmail.com"
     },
     {
       "id": 2,
       "name": "Mariana Sousa Santos",
       "email": "maria@mail.com"
+    },
+    {
+      "name": "Maria Clara Sousa",
+      "email": "clarinha@gmail.com",
+      "id": 3
     }
   ]
 }

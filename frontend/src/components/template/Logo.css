@@ -8,3 +8,13 @@
     width: 100%;
 }
 
+@media(max-width: 768px){
+    .logo{
+        width: 80px;
+    }
+    .logo img{
+        padding: 0px;
+        margin-top: 5px;
+        width: 100%;
+    }
+}
