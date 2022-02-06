@@ -3,10 +3,10 @@
  * This project was concept on my leaning process on React API
 
 ## Technologies
- [![](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=f2c75c)](https://github.com/rickalves/react-crud/edit/main/README.md)
- [![](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=f2c75c)](https://github.com/rickalves/react-crud/edit/main/README.md)
- [![](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=f2c75c)](https://github.com/rickalves/react-crud/edit/main/README.md)
- [![](https://img.shields.io/badge/Json-Server-20232A?style=for-the-badge&logo=json&logoColor=f2c75c)](https://github.com/rickalves/react-crud/edit/main/README.md)
+ [![](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=f2c75c)](https://github.com/rickalves/react-crud)
+ [![](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=f2c75c)](https://github.com/rickalves/react-crud)
+ [![](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=f2c75c)](https://github.com/rickalves/react-crud)
+ [![](https://img.shields.io/badge/Json-Server-20232A?style=for-the-badge&logo=json&logoColor=f2c75c)](https://github.com/rickalves/react-crud)
   
 ## Status / Info
 [
